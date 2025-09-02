@@ -65,7 +65,7 @@
     "angulartics-google-analytics": "0.1.4",
     "bootstrap": "3.4.1",
     "bootstrap-sass": "3.3.7",
-    "codemirror": "5.65.0",
+    "codemirror": "6.0.0",
     "core-js": "^3.21.1",
     "d3": "3.5.17",
     "es5-shim": "^4.5.12",
